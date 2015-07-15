@@ -1,2 +1,2 @@
-# wp-portfolio
-My new portfolio using Wordpress
+# wp-themecrab
+Création d'un thème Wordpress pour les services civiques
